@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "tv-mentor-api-v2",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ec092916-2bfb-499c-894e-daf50e1d766d",
+			"database_name": "tv-mentor-api-v2"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
